@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=680000
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeVCha1gkXfXqFMLz6xLM3M)/dm/3/x6qp375/d/live-0.m3u8?auth=x&cs=dmx_h6ugYv5-5UTApWUbM30athbWRdx88jG5IlrpQOBgQCJ71mF7meNPzCS96SKazODszTeXUtzi9qXPnj9d7me34LATe7p5vGSHWMCasJVszOc
