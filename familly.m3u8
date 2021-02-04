@@ -4,4 +4,4 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="english",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="eng",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/5.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="indonesia",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="indonesia",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/11.m3u8"
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=50009
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/2.m3u8
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYxMjYwOTU4NH19fV19&Signature=dGLSAhBTvQP6YwWGAWn6leo5n-Fbnyj2Bm3bBBNlkKcnOxQvUSclhxsdkNU8KAKxjlvHs7G3yYaeSi44OIIsgnM4fMnkSvfL2C5sNs-eldrYeTZ63PaKjxUU93nKaA0IdBZGOlzzA~Y2Ud5BLoFBEVRs2AiTtLqSV0fFBKBq73jSbfjSbVu~9eQ2eEyq-fHdseZN5U1-BpCCkGPwMFQ5ukAdWSagwgq92n62LJ3tPZ6y9GzZiSUHyM43RyxZENQWY4MNJ8gZVHIiZ3Dzy8-2zssk~a3Oiibn0HC3yFCXdxbSIxABU3qi8~Z9XS-p497UcScICoJUwQt9Pc4q8-UEbg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
